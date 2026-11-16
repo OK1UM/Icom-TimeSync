@@ -23,9 +23,9 @@
 2. Extract both files into the same folder:
    - `Icom_TimeSync.bat` 
    - `Icom_TimeSync.ps1` (Czech)
-   - `Icom_TimeSync.ps1` (English)
+   - `Icom_TimeSync_EN.ps1` (English)
 3. Connect your Icom transceiver via USB.
-4. Run `Icom_TimeSync_v6_EN.bat`.
+4. Run `Icom_TimeSync.bat`.
 
 Follow the on-screen instructions.
 
