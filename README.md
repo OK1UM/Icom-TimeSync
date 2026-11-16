@@ -32,4 +32,4 @@ Follow the on-screen instructions.
 ### License
 Free to use and share for amateur radio purposes.
 
-**73!**
+**73! Martin OK1UM**
